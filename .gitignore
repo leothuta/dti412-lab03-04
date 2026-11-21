@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -221,3 +222,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+*.sqlite3
+.env
+.vscode/
+.idea/
+>>>>>>> f731592 (feat: initial commit for weeks 3-4 django ORM lab)
